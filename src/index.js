@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import PersonalDetails from "./components/personaldetails";
 import LastName from "./components/lastname";
 import DateOfBirth from "./components/dateofbirth";
-import Dob from "./components/dob";
 import Experience from "./components/experience";
 import Skills from "./components/skills";
 import Submit from "./components/submit";
@@ -14,7 +13,7 @@ function App() {
     <div className="App">
       <PersonalDetails />
       <LastName />
-      <Dob />
+
       <DateOfBirth />
       <Experience />
       <Skills />
