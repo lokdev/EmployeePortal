@@ -1,2 +1,0 @@
-# EmployeePortal
-Created with CodeSandbox
